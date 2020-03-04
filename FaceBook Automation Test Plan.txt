@@ -1,3 +1,6 @@
 
 Project Name : FaceBook
 Team Members : Karthika & Akilandeswari
+
+Jenkins
+Maven
